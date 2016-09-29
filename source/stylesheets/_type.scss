@@ -1,0 +1,16 @@
+header {
+	color: #fff;
+	h1 {
+		font-family: 'Cabin', sans-serif;
+		font-size: 3em;
+		letter-spacing: 5px;
+		text-transform: uppercase;
+	}
+	.emoji {
+		font-size: 7em;
+		span {
+			position: relative;
+			top: 5px;
+		}
+	}
+}
